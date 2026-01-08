@@ -1,7 +1,7 @@
 # E_Commerce_Order_Analysis_Dashboard
 Creating dashboard for e-commerce  for analyzing the orders.
 
-                                                                                   OVERVIEW
+                                                                          OVERVIEW
 The goal of this project was to analyze e-commerce order data and build an interactive Power BI dashboard that provides clear insights into sales performance, customer behavior, order status trends, and operational efficiency.This dashboard helps stakeholders make data-driven decisions to improve revenue, reduce losses, and enhance customer experience.
 
 
