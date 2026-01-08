@@ -31,7 +31,7 @@ Ensured correct aggregations for analysis and visuals.
 3. Dashboard Design
 
 Created a multi-page interactive dashboard with:
-- KPI Cards for quick business overview.
+- Cards for quick business overview.
 - Bar & Column charts for category and product performance.
 - Line charts for sales trends over time.
 - Stacked visuals for order status comparison.
